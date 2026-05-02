@@ -1,0 +1,48 @@
+name,type,company,price,engine,mileage,image
+Corolla Altis,car,Toyota,7500000,1800cc,12,images/corolla.jpg
+Civic Oriel,car,Honda,8500000,1800cc,13,images/civic.jpg
+Suzuki Alto,car,Suzuki,2800000,660cc,18,images/alto.jpg
+Toyota Yaris,car,Toyota,6000000,1300cc,14,images/toyota_yaris.jpg
+Honda City,car,Honda,7000000,1500cc,15,images/honda_city.jpg
+KIA Sportage,car,KIA,9500000,2000cc,10,images/kia_sportage.jpg
+Hyundai Elantra,car,Hyundai,8000000,1600cc,14,images/hyundai_elantra.jpg
+Suzuki Cultus,car,Suzuki,3200000,1000cc,17,images/suzuki_cultus.jpg
+Toyota Prado,car,Toyota,25000000,2700cc,8,images/toyota_prado.jpg
+Honda BR-V,car,Honda,6500000,1500cc,13,images/honda_br-v.jpg
+Toyota Fortuner,car,Toyota,18000000,2700cc,9,images/fortuner.jpg
+Suzuki Swift,car,Suzuki,4500000,1200cc,16,images/suzuki_swift.jpg
+Honda Accord,car,Honda,12000000,2000cc,11,images/honda_accord.jpg
+KIA Picanto,car,KIA,3600000,1000cc,18,images/kia_picanto.jpg
+Hyundai Tucson,car,Hyundai,9000000,2000cc,12,images/hyundai_tucson.jpg
+BMW X5,car,BMW,35000000,3000cc,8,images/bmw_x5.jpg
+Audi A4,car,Audi,30000000,2000cc,10,images/audi_a4.jpg
+Mercedes C200,car,Mercedes,40000000,2000cc,9,images/mercedes_c200.jpg
+MG HS,car,MG,7800000,1500cc,12,images/mg_hs.jpg
+Changan Alsvin,car,Changan,3800000,1500cc,16,images/changan_alsvin.jpg
+Proton Saga,car,Proton,3000000,1300cc,15,images/proton_saga.jpg
+Suzuki Wagon R,car,Suzuki,3500000,1000cc,17,images/suzuki_wagonr.jpg
+Toyota Corolla GLi,car,Toyota,5500000,1300cc,14,images/corolla.jpg
+Honda Vezel,car,Honda,9000000,1500cc,18,images/honda_vezel.jpg
+Isuzu D-Max,car,Isuzu,10000000,3000cc,10,images/isuzu_d_max.jpg
+Yamaha YBR 125,bike,Yamaha,280000,125cc,45,images/ybr125.jpg
+Honda CG 125,bike,Honda,240000,125cc,40,images/cg125.jpg
+Suzuki GS 150,bike,Suzuki,320000,150cc,38,images/gs150.jpg
+Yamaha R1,bike,Yamaha,4500000,1000cc,18,images/yamaha_r1.jpg
+Kawasaki Ninja 400,bike,Kawasaki,1800000,400cc,22,images/kawasaki_ninja400.jpg
+Honda CB 150F,bike,Honda,380000,150cc,42,images/hondacbnew.jpg
+Suzuki GD 110,bike,Suzuki,260000,110cc,50,images/suzuki_gd110.jpg
+Yamaha FZ,bike,Yamaha,420000,150cc,40,images/yamaha_fz.jpg
+Road Prince RP 70,bike,Road Prince,120000,70cc,55,images/road_prince_rp_70.jpg
+Super Power 125,bike,Super Power,230000,125cc,45,images/superpower_125cc.jpg
+Honda CD 70,bike,Honda,210000,70cc,55,images/cd70.jpg
+Suzuki Raider 110,bike,Suzuki,250000,110cc,48,images/suzuki_raider.jpg
+Yamaha MT 15,bike,Yamaha,650000,155cc,35,images/yamaha_mt15.jpg
+KTM Duke 200,bike,KTM,900000,200cc,30,images/ktm_duke250.jpg
+Honda CBR 500R,bike,Honda,1600000,500cc,28,images/honda_cbr500r.jpg
+Suzuki Intruder 150,bike,Suzuki,420000,150cc,38,images/suzuki_intruder150.jpg
+Yamaha RX 115,bike,Yamaha,300000,115cc,40,images/yamaha_rx115.jpg
+Unique UD 70,bike,Unique,110000,70cc,60,images/unique_ud70.jpg
+Benelli TNT 150,bike,Benelli,500000,150cc,35,images/benelli_tnt150.jpg
+Hero Splendor,bike,Hero,200000,100cc,60,images/hero_splendor.jpg
+Honda Pridor,bike,Honda,260000,100cc,55,images/honda_pridor.jpg
+United US 70,bike,United,115000,70cc,58,images/united_us70.jpg
